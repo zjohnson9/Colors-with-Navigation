@@ -15,6 +15,7 @@
 		071DF82E215E80350093704F /* ColorsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 071DF82D215E80350093704F /* ColorsUITests.swift */; };
 		071DF83C215E83D90093704F /* ColorListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 071DF83B215E83D90093704F /* ColorListViewController.swift */; };
 		07BA9DC3217A3050006BE9EE /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07BA9DC2217A3050006BE9EE /* Color.swift */; };
+		07BA9DC5217A3598006BE9EE /* ColorNavigationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07BA9DC4217A3598006BE9EE /* ColorNavigationViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		071DF82F215E80350093704F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		071DF83B215E83D90093704F /* ColorListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorListViewController.swift; sourceTree = "<group>"; };
 		07BA9DC2217A3050006BE9EE /* Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
+		07BA9DC4217A3598006BE9EE /* ColorNavigationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorNavigationViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				071DF819215E80350093704F /* Info.plist */,
 				071DF83B215E83D90093704F /* ColorListViewController.swift */,
 				07BA9DC2217A3050006BE9EE /* Color.swift */,
+				07BA9DC4217A3598006BE9EE /* ColorNavigationViewController.swift */,
 			);
 			path = Colors;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				07BA9DC5217A3598006BE9EE /* ColorNavigationViewController.swift in Sources */,
 				071DF83C215E83D90093704F /* ColorListViewController.swift in Sources */,
 				071DF80E215E80330093704F /* AppDelegate.swift in Sources */,
 				07BA9DC3217A3050006BE9EE /* Color.swift in Sources */,
